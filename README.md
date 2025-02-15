@@ -1,2 +1,3 @@
 # jinhao-ai.github.io
-个人主页
+name: Jinhao Chen
+Email: jinhao2468@gmail.com
